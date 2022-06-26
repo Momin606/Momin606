@@ -1,6 +1,4 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B;Hey+there!+;My+name+is+Momin+Naeem)](https://git.io/typing-svg)
-
 <div align="center">
     <img src="html.svg" width="400" height="400" alt="css-in-readme">
 </div>
