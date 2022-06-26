@@ -1,4 +1,10 @@
 ### Hi there 👋
+<div align="center">
+    <img src="html.svg" width="400" height="400" alt="css-in-readme">
+    <img src="css.svg" width="400" height="400" alt="css-in-readme">
+
+</div>
+
 <!-- A big thank you to Prantham for the inspiration: https://twitter.com/Prathkum/status/1392434632935841793 -->
 
 <h1>Hello, my name is Momin.</h1>
