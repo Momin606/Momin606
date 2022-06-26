@@ -1,8 +1,6 @@
 ### Hi there 👋
 <div align="center">
-    <img src="index.html" width="400" height="400" alt="css-in-readme">
-    <img src="style.css" width="400" height="400" alt="css-in-readme">
-
+    <img src="html.svg" width="400" height="400" alt="css-in-readme">
 </div>
 
 <!-- A big thank you to Prantham for the inspiration: https://twitter.com/Prathkum/status/1392434632935841793 -->
